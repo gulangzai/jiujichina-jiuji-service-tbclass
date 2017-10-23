@@ -31,17 +31,26 @@
       <version>${jiujichina-common-core.version}</version> 
     </dependency>
     
-    <dependency>
-      <groupId>com.jiujichina</groupId>
-      <artifactId>jiujichina-jiuji-facade-tbclass</artifactId>
-      <version>${jiujichina-jiuji-facade-tbclass.version}</version> 
-    </dependency>
     
+     <dependency>
+      <groupId>com.jiujichina</groupId>
+      <artifactId>jiujichina-common-activiti</artifactId>
+      <version>${jiujichina-common-activiti.version}</version> 
+    </dependency>
+     
      <dependency>
       <groupId>com.jiujichina</groupId>
       <artifactId>jiujichina-jiuji-vo</artifactId>
       <version>${jiujichina-jiuji-vo.version}</version> 
     </dependency>
+    
+   <dependency>
+      <groupId>com.jiujichina</groupId>
+      <artifactId>jiujichina-jiuji-facade-tbclass</artifactId>
+      <version>${jiujichina-jiuji-facade-tbclass.version}</version> 
+    </dependency>
+    
+    
      
   </dependencies>
   
